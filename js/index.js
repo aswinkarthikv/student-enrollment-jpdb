@@ -1,4 +1,4 @@
-var connToken = "YOUR_CONNECTION_TOKEN_HERE"; // Please replace this with your JsonPowerDB Connection Token
+var connToken = "90935243|-31949242485907777|90958418"; // Please replace this with your JsonPowerDB Connection Token
 var dbName = "SCHOOL-DB";
 var relName = "STUDENT-TABLE";
 var jpdbBaseURL = "http://api.login2explore.com:5577";
